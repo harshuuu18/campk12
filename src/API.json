@@ -1,0 +1,184 @@
+[
+	{
+		"onetoone": {
+			"india": {
+				"junior": {
+					"web": {
+						"data": "1-1/india/junior/web"
+					},
+					"app": {
+						"data": "1-1/india/junior/app"
+					},
+					"ai": {
+						"data": "1-1/india/junior/ai"
+					},
+					"game": { "data": "1-1/india/junior/game" },
+					"3d": { "data": "1-1/india/junior/3d" }
+				},
+				"middle": {
+					"web": { "data": "1-1/india/middle/web" },
+					"app": { "data": "1-1/india/middle/app" },
+					"ai": { "data": "1-1/india/middle/ai" },
+					"game": { "data": "1-1/india/middle/game" },
+					"3d": { "data": "1-1/india/middle/3d" }
+				},
+				"senior": {
+					"web": { "data": "1-1/india/senior/web" },
+					"app": { "data": "1-1/india/senior/app" },
+					"ai": { "data": "1-1/india/senior/ai" },
+					"game": { "data": "1-1/india/senior/game" },
+					"3d": { "data": "1-1/india/senior/3d" }
+				}
+			},
+			"usa": {
+				"junior": {
+					"web": {
+						"data": "1-1/usa/junior/web"
+					},
+					"app": {
+						"data": "1-1/usa/junior/app"
+					},
+					"ai": {
+						"data": "1-1/usa/junior/ai"
+					},
+					"game": { "data": "1-1/usa/junior/game" },
+					"3d": { "data": "1-1/usa/junior/3d" }
+				},
+				"middle": {
+					"web": { "data": "1-1/usa/middle/web" },
+					"app": { "data": "1-1/usa/middle/app" },
+					"ai": { "data": "1-1/usa/middle/ai" },
+					"game": { "data": "1-1/usa/middle/game" },
+					"3d": { "data": "1-1/usa/middle/3d" }
+				},
+				"senior": {
+					"web": { "data": "1-1/usa/senior/web" },
+					"app": { "data": "1-1/usa/senior/app" },
+					"ai": { "data": "1-1/usa/senior/ai" },
+					"game": { "data": "1-1/usa/senior/game" },
+					"3d": { "data": "1-1/usa/senior/3d" }
+				}
+			}
+		},
+		"oneton": {
+			"india": {
+				"junior": {
+					"web": {
+						"data": "1-n/india/junior/web"
+					},
+					"app": {
+						"data": "1-n/india/junior/app"
+					},
+					"ai": {
+						"data": "1-n/india/junior/ai"
+					},
+					"game": { "data": "1-n/india/junior/game" },
+					"3d": { "data": "1-n/india/junior/3d" }
+				},
+				"middle": {
+					"web": { "data": "1-n/india/middle/web" },
+					"app": { "data": "1-n/india/middle/app" },
+					"ai": { "data": "1-n/india/middle/ai" },
+					"game": { "data": "1-n/india/middle/game" },
+					"3d": { "data": "1-n/india/middle/3d" }
+				},
+				"senior": {
+					"web": { "data": "1-n/india/senior/web" },
+					"app": { "data": "1-n/india/senior/app" },
+					"ai": { "data": "1-n/india/senior/ai" },
+					"game": { "data": "1-n/india/senior/game" },
+					"3d": { "data": "1-n/india/senior/3d" }
+				}
+			},
+			"usa": {
+				"junior": {
+					"web": {
+						"data": "1-n/usa/junior/web"
+					},
+					"app": {
+						"data": "1-n/usa/junior/app"
+					},
+					"ai": {
+						"data": "1-n/usa/junior/ai"
+					},
+					"game": { "data": "1-n/usa/junior/game" },
+					"3d": { "data": "1-n/usa/junior/3d" }
+				},
+				"middle": {
+					"web": { "data": "1-n/usa/middle/web" },
+					"app": { "data": "1-n/usa/middle/app" },
+					"ai": { "data": "1-n/usa/middle/ai" },
+					"game": { "data": "1-n/usa/middle/game" },
+					"3d": { "data": "1-n/usa/middle/3d" }
+				},
+				"senior": {
+					"web": { "data": "1-n/usa/senior/web" },
+					"app": { "data": "1-n/usa/senior/app" },
+					"ai": { "data": "1-n/usa/senior/ai" },
+					"game": { "data": "1-n/usa/senior/game" },
+					"3d": { "data": "1-n/usa/senior/3d" }
+				}
+			}
+		},
+		"school": {
+			"india": {
+				"junior": {
+					"web": {
+						"data": "school/india/junior/web"
+					},
+					"app": {
+						"data": "school/india/junior/app"
+					},
+					"ai": {
+						"data": "school/india/junior/ai"
+					},
+					"game": { "data": "school/india/junior/game" },
+					"3d": { "data": "school/india/junior/3d" }
+				},
+				"middle": {
+					"web": { "data": "school/india/middle/web" },
+					"app": { "data": "school/india/middle/app" },
+					"ai": { "data": "school/india/middle/ai" },
+					"game": { "data": "school/india/middle/game" },
+					"3d": { "data": "school/india/middle/3d" }
+				},
+				"senior": {
+					"web": { "data": "school/india/senior/web" },
+					"app": { "data": "school/india/senior/app" },
+					"ai": { "data": "school/india/senior/ai" },
+					"game": { "data": "school/india/senior/game" },
+					"3d": { "data": "school/india/senior/3d" }
+				}
+			},
+			"usa": {
+				"junior": {
+					"web": {
+						"data": "school/usa/junior/web"
+					},
+					"app": {
+						"data": "school/usa/junior/app"
+					},
+					"ai": {
+						"data": "school/usa/junior/ai"
+					},
+					"game": { "data": "school/usa/junior/game" },
+					"3d": { "data": "school/usa/junior/3d" }
+				},
+				"middle": {
+					"web": { "data": "school/usa/middle/web" },
+					"app": { "data": "school/usa/middle/app" },
+					"ai": { "data": "school/usa/middle/ai" },
+					"game": { "data": "school/usa/middle/game" },
+					"3d": { "data": "school/usa/middle/3d" }
+				},
+				"senior": {
+					"web": { "data": "school/usa/senior/web" },
+					"app": { "data": "school/usa/senior/app" },
+					"ai": { "data": "school/usa/senior/ai" },
+					"game": { "data": "school/usa/senior/game" },
+					"3d": { "data": "school/usa/senior/3d" }
+				}
+			}
+		}
+	}
+]
